@@ -1,0 +1,48 @@
+body{
+	background: url('station.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+#head{
+	text-align: center;
+	color: white;
+	padding-top: 155px;
+}
+
+#counter{
+	text-align: center;
+	color: white;
+}
+
+button{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 10%;
+	font-weight: 700;
+	height: 50px;
+}
+
+#increment-btn{
+	color: white;
+	background: darkred;
+	position: relative;
+	left: 550px;
+	
+}
+
+#save-btn{
+	color: blue;
+	background: yellow;
+	position: fixed;
+	
+	right: 550px;
+}
+
+#save-el{
+	color: white;
+	font-weight: 400;
+	text-align: center;
+	font-size: larger;
+}
